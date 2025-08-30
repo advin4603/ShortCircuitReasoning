@@ -1,0 +1,11 @@
+datasets
+ipython
+ipywidgets
+json-repair
+nltk
+openai
+plotly
+python-dotenv
+torch
+tqdm
+transformer-lens
